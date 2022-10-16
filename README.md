@@ -4,7 +4,7 @@
 	<img src="https://img.shields.io/github/license/Prefech/Prefech_playTime.png">
 	<img src="https://img.shields.io/github/issues/Prefech/Prefech_playTime.png">
 	<img src="https://img.shields.io/github/contributors/Prefech/Prefech_playTime.png">
-	<a href="https://discord.gg/prefech" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
+	<a href="https://prefech.com/discord" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
 </h4>
 
 <div align="center">
@@ -22,7 +22,7 @@
     ·
     <a href="https://discord.gg/E9FceTnsJV">Request Feature</a>
   </p>
-  <a href="https://discord.gg/prefech" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/721339695199682611/widget.png?style=banner2"></a>
+  <a href="https://prefech.com/discord" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/721339695199682611/widget.png?style=banner2"></a>
 </div>
 
 ### Download:
